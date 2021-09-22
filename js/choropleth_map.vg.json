@@ -52,7 +52,7 @@
         },
         "encoding": {
           "color": {
-            "title": "User Rate",
+            "title": "Internet Use Rate",
             "field": "internetuserate",
             "type": "quantitative",
             "scale": {
